@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evaluation_RomainGILOT", "Evaluation_RomainGILOT\Evaluation_RomainGILOT.csproj", "{A05E4C83-F4D5-4050-A544-687C7543EFFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evalutation_RomainGILOT_UnitTest", "Evalutation_RomainGILOT_UnitTest\Evalutation_RomainGILOT_UnitTest.csproj", "{D5787EAD-5164-47E7-AE95-416369AD2F44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A05E4C83-F4D5-4050-A544-687C7543EFFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A05E4C83-F4D5-4050-A544-687C7543EFFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A05E4C83-F4D5-4050-A544-687C7543EFFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A05E4C83-F4D5-4050-A544-687C7543EFFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5787EAD-5164-47E7-AE95-416369AD2F44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5787EAD-5164-47E7-AE95-416369AD2F44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5787EAD-5164-47E7-AE95-416369AD2F44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5787EAD-5164-47E7-AE95-416369AD2F44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC970528-2DF8-42DF-A6B9-4B66F787CF5A}
+	EndGlobalSection
+EndGlobal
